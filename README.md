@@ -16,6 +16,46 @@ Just type anything (your name, a phrase, even a whole sentence) and watch your k
 
 ---
 
+## 🥁 Pattern Cookbook (Quick Reference)
+
+Type a pattern, let it loop, then tweak BPM or kits.
+
+| Style | Feel | Pattern | BPM | Notes |
+|------|------|---------|-----|------|
+| 🎧 Hip-Hop | Boom-Bap | `qhhqkfhk` | 80–95 | Deep pocket |
+| 💥 Breakbeat | Glitch | `qfhkqhhfkh` | 110–140 | Long = variation |
+| 🕺 Techno | Minimal | `qhqhqhqh` | 125–140 | Machine-tight |
+| 🕺 Techno | Push | `qhqhhqhh` | 128–145 | Groove shift |
+| 🕺 Techno | Drive | `qhqhkhqh` | 130–150 | Extra motion |
+| 🌍 Tribal | Percussive | `sdysgdyg` | 95–120 | Hand-drum feel |
+| 🌍 Tribal | Cyclic | `sdysdysd` | 100–120 | Hypnotic |
+| 🇧🇷 Samba | Pulse | `sdysdysg` | 95–115 | Circular accents |
+| 🇧🇷 Samba | Push | `sdysgdys` | 100–120 | Brazilian swing |
+| 🇧🇷 Samba | Busy | `sdygydsg` | 105–125 | Top-layer energy |
+| 🎷 Jazz | Swing Ride | `hahkahah` | 70–100 | Ride illusion |
+| 🎷 Jazz | Broken | `hahkfahk` | 75–110 | Human phrasing |
+| 🎷 Jazz | Brushy | `aahahahk` | 60–90 | Soft texture |
+| 🙌 Gospel | Pocket | `qhhkfhkh` | 85–105 | Ghost notes |
+| 🙌 Gospel | Shout | `qhkfkkhh` | 95–115 | Big snare |
+| 🙌 Gospel | Praise | `qhhkkfhk` | 90–110 | Reactive feel |
+| 🧠 Polyrhythm | 9-Step | `qhhkqhhkq` | 100–130 | Phase shift |
+| 🧠 Prog | 7-Step | `qhhkfhq` | 110–140 | Repeat tension |
+| 🧠 Prog | 9-Step | `qhkqhhkfh` | 120–150 | Odd resolve |
+| ⚡ Fill | Transition | `kkhfqhhf` | Any | Use briefly |
+
+---
+
+### ▶️ Start Here → Evolve
+1. **Beginner groove:** `qhqhqhqh` @ 130 BPM  
+2. **Add feel:** switch to `qhqhhqhh`  
+3. **Introduce tension:** `qhhkqhhkq`  
+4. **Fill:** `kkhfqhhf` (1–2 loops)  
+5. **Return to pocket** and repeat
+
+Small changes. Big grooves.
+
+---
+
 ## Project layout
 Single-file app:
 - typedrummer.html — UI, styles and full JavaScript implementation (AudioContext, instruments, mapping, playback, UI).
