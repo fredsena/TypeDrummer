@@ -6,6 +6,16 @@ Source: typedrummer.html
 ## Overview / Purpose
 Mini Typedrummer maps typed letters to synthesized percussion and sequences typed text as rhythmic patterns. It uses only the Web Audio API (no audio samples). Intended as a lightweight, editable synth-driven drum/sequencer demo.
 
+### 🎧 Try the Live App
+
+Want to turn your words into beats right now?
+Give **TypeDrummer** a spin in your browser — no install required:
+👉 **[https://fredsena.github.io/TypeDrummer/typedrummer.html](https://fredsena.github.io/TypeDrummer/typedrummer.html)**
+
+Just type anything (your name, a phrase, even a whole sentence) and watch your keyboard magically become a drum machine! 😄 Each letter triggers a sound — it’s fun, easy, and surprisingly rhythmic.
+
+---
+
 ## Project layout
 Single-file app:
 - typedrummer.html — UI, styles and full JavaScript implementation (AudioContext, instruments, mapping, playback, UI).
